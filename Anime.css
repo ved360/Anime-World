@@ -1,0 +1,49 @@
+html{
+    background: url(https://img.freepik.com/free-photo/fantasy-abandoned-city-night_141465-12.jpg?w=2000) no-repeat center center/cover;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    }
+#heading{
+    color: rgb(0,0,0);
+    font-size: 56px;
+    /* border: 2px solid  white; */
+    height: 200px;
+    justify-content: center;
+    text-size-adjust: 50px;
+    display: flex;
+    font-family: 'Creepster', cursive;
+}
+.container{
+    margin-top: 70px;
+    display: flex; 
+    height: 100%;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.box{
+    display: flex;
+    /* border: 2px solid red; */
+    height: 356px;
+    width: 237px;
+    text-align: center;
+    padding: 10px;
+    z-index: 10;
+    border-radius: 20px;
+}
+    
+
+#naruto{
+    background: url(https://i.pinimg.com/236x/66/22/ff/6622ffb0d3f1999aa58141a21eff423a.jpg) no-repeat center center/cover;
+    background-size: cover;
+}
+#ds{
+    background: url(https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFIc1AwNUZsRUwuX0FDX1NMMTUwMF8uanBn.jpg) no-repeat center center/cover;
+    background-size: cover;
+}
+#jjk{
+    background: url(https://static.displate.com/280x392/displate/2020-11-25/d8d36b67d5f6fbe2885feb98b6dcf1e6_1757c18882a6e20832f9ae6e14bb80c5.jpg) no-repeat center center/cover;
+    background-size: cover;
+}
+/* #naruto:hover{
+    height: ;
+} */
